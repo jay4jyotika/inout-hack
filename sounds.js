@@ -17,6 +17,9 @@ var sounds = {
   "coin" : {
     url : "sounds/coin.mp3"
   }
+  "laser" : {
+    url : "sounds/laser.mp3"
+  }
 };
 
 
